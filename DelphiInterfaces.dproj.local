@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/10/07 15:07:29.910,=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:08:40.021,D:\Projetos\WK\mvp-delphiinterfaces\untPrincipal.pas=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:08:40.021,D:\Projetos\WK\mvp-delphiinterfaces\untPrincipal.dfm=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/07 15:08:53.655,D:\Projetos\WK\mvp-delphiinterfaces\DelphiInterfaces.dproj=C:\Users\nerasjr\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/07 15:09:31.241,=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:10:31.091,D:\Projetos\WK\mvp-delphiinterfaces\uniProduto.pas=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:10:58.373,=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:11:52.906,D:\Projetos\WK\mvp-delphiinterfaces\untProdutoClass.pas=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:12:11.307,D:\Projetos\WK\mvp-delphiinterfaces\uniProdutoInterface.pas=D:\Projetos\WK\mvp-delphiinterfaces\uniProduto.pas</Transaction>
+    <Transaction>2024/10/07 15:12:25.466,=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:13:00.595,D:\Projetos\WK\mvp-delphiinterfaces\uniPedidoInterface.pas=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:13:53.920,=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+    <Transaction>2024/10/07 15:15:19.418,D:\Projetos\WK\mvp-delphiinterfaces\untPedidoClass.pas=D:\Projetos\WK\mvp-delphiinterfaces\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
