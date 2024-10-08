@@ -242,7 +242,7 @@ begin
   begin
     Result := False;
     try
-      if (StrToFloat(edtDesconto.Text) < 0) or (StrToFloat(edtDesconto.Text) > 100) then
+      if (StrToFloat(edtDesconto.Text) < 0) or (StrToFloat(edtDesconto.Text) >= 100) then
       begin
         ShowMessage('Desconto Inválido');
         edtDesconto.SetFocus;

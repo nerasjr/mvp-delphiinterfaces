@@ -102,9 +102,6 @@ object frmPrincipal: TfrmPrincipal
     Height = 510
     Align = alClient
     TabOrder = 1
-    ExplicitTop = 57
-    ExplicitWidth = 624
-    ExplicitHeight = 384
     ColWidths = (
       64
       363
@@ -119,9 +116,6 @@ object frmPrincipal: TfrmPrincipal
     Height = 41
     Align = alBottom
     TabOrder = 2
-    ExplicitLeft = 400
-    ExplicitTop = 544
-    ExplicitWidth = 185
     object lblTotal: TLabel
       Left = 502
       Top = 10

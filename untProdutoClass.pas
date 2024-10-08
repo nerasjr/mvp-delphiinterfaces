@@ -39,9 +39,8 @@ var
   Desconto: Currency;
 begin
   Desconto := FPreco * (APercentual / 100);
-  FPreco := FPreco - Desconto;
-  if FPreco < 0 then
-    FPreco := 0;
+  if Desconto < FPreco then
+    FPreco := FPreco - Desconto;
 end;
 
 end.
